@@ -1,0 +1,5 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Hiring\bin\Debug\RadSoft.Hiring.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Hiring\bin\Debug\RadSoft.Hiring.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Hiring\obj\Debug\RadSoft.Hiring.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Hiring\obj\Debug\RadSoft.Hiring.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Hiring\obj\Debug\RadSoft.Hiring.pdb

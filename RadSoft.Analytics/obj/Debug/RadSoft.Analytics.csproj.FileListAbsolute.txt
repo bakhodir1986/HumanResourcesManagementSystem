@@ -1,0 +1,5 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Analytics\bin\Debug\RadSoft.Analytics.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Analytics\bin\Debug\RadSoft.Analytics.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Analytics\obj\Debug\RadSoft.Analytics.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Analytics\obj\Debug\RadSoft.Analytics.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.Analytics\obj\Debug\RadSoft.Analytics.pdb

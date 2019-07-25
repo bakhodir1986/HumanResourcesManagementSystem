@@ -1,0 +1,5 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeSelfService\bin\Debug\RadSoft.EmployeeSelfService.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeSelfService\bin\Debug\RadSoft.EmployeeSelfService.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeSelfService\obj\Debug\RadSoft.EmployeeSelfService.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeSelfService\obj\Debug\RadSoft.EmployeeSelfService.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeSelfService\obj\Debug\RadSoft.EmployeeSelfService.pdb

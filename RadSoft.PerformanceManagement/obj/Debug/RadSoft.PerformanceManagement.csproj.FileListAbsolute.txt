@@ -1,0 +1,5 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.PerformanceManagement\bin\Debug\RadSoft.PerformanceManagement.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.PerformanceManagement\bin\Debug\RadSoft.PerformanceManagement.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.PerformanceManagement\obj\Debug\RadSoft.PerformanceManagement.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.PerformanceManagement\obj\Debug\RadSoft.PerformanceManagement.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.PerformanceManagement\obj\Debug\RadSoft.PerformanceManagement.pdb

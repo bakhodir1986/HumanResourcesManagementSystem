@@ -1,0 +1,5 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.ManagingPayroll\bin\Debug\RadSoft.ManagingPayroll.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.ManagingPayroll\bin\Debug\RadSoft.ManagingPayroll.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.ManagingPayroll\obj\Debug\RadSoft.ManagingPayroll.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.ManagingPayroll\obj\Debug\RadSoft.ManagingPayroll.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.ManagingPayroll\obj\Debug\RadSoft.ManagingPayroll.pdb

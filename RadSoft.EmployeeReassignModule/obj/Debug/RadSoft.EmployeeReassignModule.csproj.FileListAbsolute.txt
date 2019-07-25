@@ -1,0 +1,5 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeReassignModule\bin\Debug\RadSoft.EmployeeReassignModule.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeReassignModule\bin\Debug\RadSoft.EmployeeReassignModule.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeReassignModule\obj\Debug\RadSoft.EmployeeReassignModule.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeReassignModule\obj\Debug\RadSoft.EmployeeReassignModule.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.EmployeeReassignModule\obj\Debug\RadSoft.EmployeeReassignModule.pdb

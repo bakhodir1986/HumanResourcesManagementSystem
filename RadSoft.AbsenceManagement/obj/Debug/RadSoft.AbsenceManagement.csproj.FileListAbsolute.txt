@@ -1,0 +1,5 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.AbsenceManagement\bin\Debug\RadSoft.AbsenceManagement.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.AbsenceManagement\bin\Debug\RadSoft.AbsenceManagement.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.AbsenceManagement\obj\Debug\RadSoft.AbsenceManagement.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.AbsenceManagement\obj\Debug\RadSoft.AbsenceManagement.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.AbsenceManagement\obj\Debug\RadSoft.AbsenceManagement.pdb

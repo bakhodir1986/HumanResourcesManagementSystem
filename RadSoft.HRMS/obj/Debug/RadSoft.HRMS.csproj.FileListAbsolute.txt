@@ -1,0 +1,6 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HRMS\bin\Debug\RadSoft.HRMS.exe.config
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HRMS\bin\Debug\RadSoft.HRMS.exe
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HRMS\bin\Debug\RadSoft.HRMS.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HRMS\obj\Debug\RadSoft.HRMS.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HRMS\obj\Debug\RadSoft.HRMS.exe
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HRMS\obj\Debug\RadSoft.HRMS.pdb

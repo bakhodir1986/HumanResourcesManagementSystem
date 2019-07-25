@@ -1,0 +1,5 @@
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HumanResourcePlanning\bin\Debug\RadSoft.HumanResourcePlanning.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HumanResourcePlanning\bin\Debug\RadSoft.HumanResourcePlanning.pdb
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HumanResourcePlanning\obj\Debug\RadSoft.HumanResourcePlanning.csproj.CoreCompileInputs.cache
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HumanResourcePlanning\obj\Debug\RadSoft.HumanResourcePlanning.dll
+C:\RADSOFT\Projects\HRMS\Project\Dot_Net\RadSoft.HumanResourcesManagementSystem\RadSoft.HumanResourcePlanning\obj\Debug\RadSoft.HumanResourcePlanning.pdb
